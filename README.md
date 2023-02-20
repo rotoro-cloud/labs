@@ -3,6 +3,7 @@
 Структура такая:
 
 .
+
 ├── kubernetes-for-beginners
 
 │   ├── curriculum
